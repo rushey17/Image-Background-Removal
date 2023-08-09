@@ -3,4 +3,3 @@ uvicorn==0.17.0
 rembg==2.0.13
 Pillow==9.0.1
 validators==0.20.0
-
